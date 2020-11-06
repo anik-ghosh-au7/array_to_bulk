@@ -1,0 +1,21 @@
+{
+  "name": "bulk_data_conversion",
+  "version": "1.0.0",
+  "description": "convert json array to bulk format for elastic search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "bulk",
+    "data",
+    "conversion",
+    "elastic",
+    "search"
+  ],
+  "author": "Anik Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
